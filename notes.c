@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 int main()
@@ -8,10 +8,10 @@ int main()
      x = 56;
      printf("%d",x);
 
-}*/
+}
 
 //WAP to find max of 2 integers using only one if conditional construct
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
     int a,b,max;
     printf("Enter two numbers: ");
@@ -23,10 +23,10 @@ int main(){
         max = b;
     }
     printf("%d",max,"is the maximum");
-}*/
+}
 
 // WAP to find max of 2 integers using only 1 if condition and without using max(extra) variable.
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
     int a=14,b=17;
     if (a>b){
@@ -34,7 +34,7 @@ int main(){
     }
     printf("%d",b,"is the max number");
 
-}*/
+}
 
 //WAP to find max of 2 integers using only 1 if conditon and without using extra(max) variable and withput changing a & b original values
 #include<stdio.h>
